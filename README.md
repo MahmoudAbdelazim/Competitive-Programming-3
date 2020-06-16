@@ -1,6 +1,8 @@
 # Competitive Programming 3
 This repository includes all my code implementations of problems in UVA's Competitive Programming 3 Book.
 
+Check out my [uHunt](https://uhunt.onlinejudge.org/id/1061412).
+
 ## Book's Contents:
 
 ### Chapter 1: Introduction
